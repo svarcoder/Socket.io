@@ -19,7 +19,9 @@
 Here is a list of technologies we use:
 
 - **React JS**: Frontend React JS
-- **Firebase**: handle APIs in frontend and also use for database.
+- **Node**: handle APIs in backend.
+- **Express**: handle Node in backend.
+- **Socket**: handle chat.
 
 
 #### Code Style
