@@ -38,7 +38,7 @@ Here is a list of technologies we use:
 The first step to running Socket App locally is downloading the code by cloning the repository:
 
 ```sh
-git clone https://github.com/svarcoder/Socket.io
+git clone https://github.com/svarcoder/Socket.io.git
 ```
 
 After clone install the node modules:
